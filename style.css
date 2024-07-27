@@ -471,6 +471,7 @@
 #up{
     color: white;
     height: 315px;
+    text-align: center;
    }
    #up>img{
     border-radius: 50%;
@@ -490,6 +491,7 @@
     position: relative;
     top: -130px;
    }
+
    #Contact-button{
     padding: 10px 25px; 
     background-color: rgb(9,72,180);
